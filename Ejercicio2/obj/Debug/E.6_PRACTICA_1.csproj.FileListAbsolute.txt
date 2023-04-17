@@ -1,0 +1,11 @@
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\E.6_PRACTICA_1.csproj.AssemblyReference.cache
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\E.6_PRACTICA_1.csproj.SuggestedBindingRedirects.cache
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\E.6_PRACTICA_1.csproj.GenerateResource.cache
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\E.6_PRACTICA_1.csproj.CoreCompileInputs.cache
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\obj\Debug\ejercicio2.Frm_P6.resources
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+F:\semestre 1-2023\SIS2420-B\PROGRAMAS\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
